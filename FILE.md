@@ -45,3 +45,8 @@
 45. EDIT FILE.md
 46. git add -a
 47. git commit -m "Commit 12'
+48. git checkout master
+49. git merge bug-fix
+50. EDIT FILE.md
+51. git add -a
+52. git commit -m "Commit 13'

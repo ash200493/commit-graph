@@ -50,3 +50,6 @@
 50. EDIT FILE.md
 51. git add -a
 52. git commit -m "Commit 13'
+53. EDIT FILE.md
+54. git add <commit-graph.png> FILE.md
+55. git commit -m "Commit 14"

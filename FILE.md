@@ -23,3 +23,6 @@
 30. EDIT FILE.md
 31. git add -a
 32. git commit -m "Commit 8"
+33. EDIT FILE.md
+34. git add -a
+35. git commit -m "Commit 9"

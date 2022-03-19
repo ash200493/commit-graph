@@ -5,3 +5,6 @@
 5. EDIT FILE.md
 6. git add -a
 7. git commit -m "Commit 1"
+8. EDIT FILE.md
+9. git add -a
+10. git commit -m "Commit 2"

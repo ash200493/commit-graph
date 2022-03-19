@@ -16,3 +16,7 @@
 16. EDIT FILE.md
 17. git add -a
 18. git commit -m "Commit 4"
+26. git checkout bug-fix-experimental
+27. EDIT FILE.md
+28. git add -a
+29. git commit -m "Commit 7"

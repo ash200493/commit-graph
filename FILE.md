@@ -8,3 +8,7 @@
 8. EDIT FILE.md
 9. git add -a
 10. git commit -m "Commit 2"
+36. git checkout master
+37. EDIT FILE.md
+38. git add -a
+39. git commit -m "Commit 10"

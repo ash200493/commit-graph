@@ -8,3 +8,8 @@
 8. EDIT FILE.md
 9. git add -a
 10. git commit -m "Commit 2"
+11. git branch bug-fix
+12. git checkout bug-fix
+13. EDIT FILE.md
+14. git add -a
+15. git commit -m "Commit 3"

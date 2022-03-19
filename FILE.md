@@ -36,3 +36,6 @@
 42. EDIT FILE.md
 43. git add -a
 44. git commit -m "Commit 11'
+45. EDIT FILE.md
+46. git add -a
+47. git commit -m "Commit 12'

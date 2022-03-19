@@ -13,3 +13,6 @@
 13. EDIT FILE.md
 14. git add -a
 15. git commit -m "Commit 3"
+16. EDIT FILE.md
+17. git add -a
+18. git commit -m "Commit 4"
